@@ -16,7 +16,7 @@ printf '      ╚══════╝░╚════╝░░╚════
 
                                                                     
 printf " \e[1;93m      Locaster Ver 0.2 - by AKASH SHARMA [TERRORFLOW]\e[0m \n"
-printf " \e[1;92m      www.space-xyz.xyz  \n"
+printf " \e[1;92m      www.space-xtz.xyz  \n"
 printf "\e[1;90m Locatser is a simple and  light tool for information gathering and capture GPS coordinates.\e[0m \n"
 printf "\n"
 }
