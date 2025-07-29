@@ -32,7 +32,7 @@ This tool require PHP for webserver, wget & unzip for download and extract cloud
 
 apt-get -y install php unzip git wget
 Installing (Kali Linux/Termux):
-git clone https://github.com/techchipnet/Locaster
+git clone https://github.com/space-add-me/Locaster
 cd Locaster
 bash Locaster.sh
 Change log:
